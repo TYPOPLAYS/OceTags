@@ -19,7 +19,7 @@ You may not, and may not help anyone else to:
 - remove or alter any copyright, attribution, or license notice in the Software;
 - use the Software, or anything it communicates with, to build a competing tiertagger or similar product;
 - use automated tools (bots, scrapers, etc.) to make bulk requests through the Software or any API it uses, beyond ordinary single-player use;
-- use the Software in a way that violates the terms of any server or service it connects to (including OceNet and MCTiers), or Minecraft's EULA.
+- use the Software in a way that violates the terms of any server or service it connects to (including OceNet), or Minecraft's EULA.
 
 ## 3. Ownership
 
@@ -27,7 +27,7 @@ The Software is licensed, not sold. The Author retains all right, title, and int
 
 ## 4. Third-Party Services
 
-The Software communicates with third-party services (including ocenet.club and mctiers.com) that the Author does not control. These may change or go offline without notice, and the Author is not responsible for their availability, accuracy, or handling of data.
+The Software communicates with third-party services (including ocenet.club) that the Author does not control. These may change or go offline without notice, and the Author is not responsible for their availability, accuracy, or handling of data.
 
 ## 5. No Warranty
 
